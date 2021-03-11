@@ -1846,6 +1846,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 543204925742826498, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919309011639377592, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.2
@@ -1897,6 +1901,42 @@ PrefabInstance:
     - target: {fileID: 919309011639377592, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754681, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: field of view
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754681, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: far clip plane
+      value: 5000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754681, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: near clip plane
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754683, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754683, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754683, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754683, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754683, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400177543289754683, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2400177543980459251, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
       propertyPath: pauseUI
