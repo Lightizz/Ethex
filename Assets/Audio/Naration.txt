@@ -1,0 +1,18 @@
+$ = Modified voice
+
+###################################################################
+
+-Narator($):  *HUM HUM*
+"Looks like you're awake."
+	    *Lights ON*
+"I guess you need explications, i'll give you some.
+Hope you had a good trip, but your real trip has only just begun.
+You are here to liberate yourself from your mistakes.
+In consequence if you prove that you are able to repair your past,
+freedom will be yours.
+To repair your mistakes, you will participate in test, 
+you need to solve them all. 
+Each task is different and also the stakes"
+		*All room lights ON*
+"The fist step is easy, just progress 
+to the door and solve the displayed problem."

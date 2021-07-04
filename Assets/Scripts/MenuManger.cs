@@ -17,6 +17,5 @@ public class MenuManger : MonoBehaviour {
 
     public void LoadMap() {
         SceneManager.LoadScene(1);
-        //Load checkpoint with PlayerPref ici ou dans les start de la scene Map 
     }
 }

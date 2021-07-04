@@ -284,6 +284,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 520832791}
+        m_TargetAssemblyTypeName: MenuManger, Assembly-CSharp
+        m_MethodName: LoadMap
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &175750482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -739,6 +751,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2400177543289754683, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2400177543825579447, guid: 3e53cefabfd77be468b093864fca2f37, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1429,6 +1445,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 520832790}
     m_Modifications:
+    - target: {fileID: 978459619103249025, guid: afefe7830417d20478b856c8809298be, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -10.0000305
+      objectReference: {fileID: 0}
     - target: {fileID: 1824317845411523585, guid: afefe7830417d20478b856c8809298be, type: 3}
       propertyPath: player
       value: 
